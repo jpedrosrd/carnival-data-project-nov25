@@ -67,7 +67,9 @@ Analysis of event logistics and operational assets:
 3. **Explore** all visual pages and apply filters to evaluate  
    - Economic trends  
    - Cultural metrics  
-   - Operational complexity  
+   - Operational complexity
+  
+4. **Open** the link: https://app.powerbi.com/groups/me/reports/3c3c9d5a-de3b-4d49-a7e4-77875b1a2d80/7a7482ec13941430e209?experience=power-bi
 
 ---
 
