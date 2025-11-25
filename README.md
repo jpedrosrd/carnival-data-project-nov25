@@ -1,4 +1,4 @@
-[README_Carnival_Project.md](https://github.com/user-attachments/files/23754764/README_Carnival_Project.md)
+
 # 🎊 Carnival Mega-Project Data Analysis (2022–2025)
 
 ## 📊 Overview
@@ -88,8 +88,10 @@ The Power BI model was built using CSV files extracted from:
 
 ## 👤 Author
 
-**João Pedro Rodrigues**  
-[Portfolio or LinkedIn — optional]
+**João Pedro Rodrigues** ,
+**Ana Beatriz Rodrigues** ,
+**Alex Barros**  
+
 
 ---
 
